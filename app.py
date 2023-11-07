@@ -31,6 +31,7 @@ print(type(data))
 print((width, height))
 for i in data:
     if i == 255:
+        # Кількість символів подвоєно задля збереження пропорції зображення
         f.write("11")
     if i == 0:
         f.write("00")
