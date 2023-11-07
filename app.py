@@ -1,4 +1,4 @@
-#Task 5
+# Task 5
 
 from PIL import Image, ImageFilter
 
@@ -19,7 +19,7 @@ im_1.save("im_1.png")
 im_L.save("im_L.png")
 im_LA.save("im_LA.png")
 
-#Task 7
+# Task 7
 
 (width, height) = im_1.size
 data = list(im_1.getdata())
