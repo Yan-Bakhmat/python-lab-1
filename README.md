@@ -1,3 +1,3 @@
 # python-lab-1
 
-Перед запуском програми замініть 27-му строку коду у файлі "app.py", що має наступний вигляд: f = open(r"C:/Users/yanba/Documents/GitHub/python-lab-1/ph2.txt", "w"), на коректне посиланя на розташування вашої папки на вашому ПК
+Before starting the program, replace the 27th line of code in the "app.py" file with the following form: f = open(r"C:/Users/yanba/Documents/GitHub/python-lab-1/ph2.txt", "w") to the correct reference to the location of your folder on your PC.
